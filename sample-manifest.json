@@ -1,12 +1,12 @@
 {
-  "export_job_id": "db3a8ece-0b10-4729-9acb-5d2211e71e1a",
+  "export_job_id": "f1de273f-c714-4301-87e5-b305ee4bdf47",
   "id_short": 253189,
-  "published_at": "2026-04-13T19:03:08Z",
+  "published_at": "2026-04-19T07:47:24Z",
   "repo_name": "tech-ready-restaurants-in-the-salt-lake-city-murray-metro-area-ut-us-sample-253189",
   "sample_asset_name": "beamstation_253189_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/253189/beamstation_253189_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "36c98c2b3e9b79afca5f17842659420b1b81300e75a3db3db3ba72eb9fcf39c6",
-  "sample_size_bytes": 20254,
-  "total_records": 8
+  "sample_sha256": "c4a1786f462fe72d1e6509657c358f17e2a16d4ca5fedd51e7a6a57199c2445f",
+  "sample_size_bytes": 20021,
+  "total_records": 7
 }
