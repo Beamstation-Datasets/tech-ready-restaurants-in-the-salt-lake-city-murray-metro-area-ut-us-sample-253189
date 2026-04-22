@@ -9,9 +9,9 @@
 | Dataset ID | `253189` |
 | Location | Salt Lake City-Murray, UT |
 | Category | Restaurants |
-| Full dataset size | 7 records |
-| Free sample size | 1 records (14.29%) |
-| Last export | 2026-04-15T10:49:01.218642+00:00 |
+| Full dataset size | 3 records |
+| Free sample size | 1 records (33.33%) |
+| Last export | 2026-04-22T18:49:46.492952+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-salt-lake-city-murray-metro-area-ut-us-sample-253189/releases/download/sample-latest/beamstation_253189_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
