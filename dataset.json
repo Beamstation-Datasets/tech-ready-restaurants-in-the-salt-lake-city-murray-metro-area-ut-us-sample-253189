@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Salt Lake City-Murray Metro Area, UT, US",
-  "export_job_id": "f1de273f-c714-4301-87e5-b305ee4bdf47",
+  "export_job_id": "52f9c5c5-f481-474e-b783-294850f7ecd7",
   "github_org": "Beamstation-Datasets",
   "id_short": 253189,
   "location_name": "Salt Lake City-Murray, UT",
   "location_type": "metro",
   "repo_name": "tech-ready-restaurants-in-the-salt-lake-city-murray-metro-area-ut-us-sample-253189",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/253189/beamstation_253189_restaurants-us-saltlakecitymurrayut_SAMPLE_DIST.csv",
-  "sample_pct": 14.29,
+  "sample_pct": 33.33,
   "sample_records": 1,
-  "sample_sha256": "c4a1786f462fe72d1e6509657c358f17e2a16d4ca5fedd51e7a6a57199c2445f",
-  "sample_size_bytes": 20021,
-  "total_records": 7,
-  "updated_at": "2026-04-15T10:49:01.218642+00:00"
+  "sample_sha256": "543bbfc25afb639e004b513db2008c04040a27608e4f0a4803c8fd83a034ad19",
+  "sample_size_bytes": 20166,
+  "total_records": 3,
+  "updated_at": "2026-04-22T18:49:46.492952+00:00"
 }
